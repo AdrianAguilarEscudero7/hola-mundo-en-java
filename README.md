@@ -26,3 +26,7 @@ java HolaMundo
 Con la tecla **F5** se compila el archivo y con **F8** se ejecuta (si no hay erores).
 
 ## Enlaces de interés
+
+* [Git y GitHub  - Guía de Supervivencia] (https://leanpub.com/gitygithub/)
+
+Espero que te guste este repositorio de GitHub, si es así, dale una estrellita :star:
